@@ -1,5 +1,0 @@
-{
-  "buildCommand": "cd ai-dashboard && npm install && npm run build",
-  "outputDirectory": "ai-dashboard/build",
-  "framework": "create-react-app"
-}
